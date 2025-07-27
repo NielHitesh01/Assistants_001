@@ -1,0 +1,4 @@
+# Multiple locations
+print(f"🔄 Processing your command...")
+print(f"✅ I heard: '{text}'")
+print(f"📝 Processing: '{cmd}'")

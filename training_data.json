@@ -1,0 +1,279 @@
+{
+  "intents": [
+    {
+      "intent": "greeting",
+      "examples": [
+        "hi",
+        "hello",
+        "hey",
+        "good morning",
+        "good afternoon",
+        "good evening",
+        "hi there",
+        "hello there",
+        "hey jarvis",
+        "greetings",
+        "what's up",
+        "howdy",
+        "hi jarvis"
+      ]
+    },
+    {
+      "intent": "ask_feeling",
+      "examples": [
+        "how are you",
+        "how do you feel",
+        "are you okay",
+        "what's up",
+        "how are you doing",
+        "how do you feel today",
+        "are you well",
+        "how's it going",
+        "how are things",
+        "how do you feel right now"
+      ]
+    },
+    {
+      "intent": "express_mood",
+      "examples": [
+        "i'm happy",
+        "i'm sad",
+        "i'm excited",
+        "i'm tired",
+        "i'm stressed",
+        "i feel good",
+        "i feel bad",
+        "i'm feeling great",
+        "i'm depressed",
+        "i'm anxious",
+        "i'm worried",
+        "i'm thrilled",
+        "i'm upset"
+      ]
+    },
+    {
+      "intent": "work_collaboration",
+      "examples": [
+        "help me with project",
+        "work day",
+        "collaborate",
+        "work on",
+        "working on",
+        "assist me with",
+        "help me research",
+        "project work",
+        "let's work together",
+        "i need help with work",
+        "work assistance"
+      ]
+    },
+    {
+      "intent": "research_request",
+      "examples": [
+        "gather information",
+        "research",
+        "study",
+        "information about",
+        "tell me about",
+        "recent study",
+        "latest research",
+        "find information",
+        "look up",
+        "search for",
+        "research about",
+        "study about"
+      ]
+    },
+    {
+      "intent": "fusion_research",
+      "examples": [
+        "fusion engine",
+        "fusion",
+        "nuclear fusion",
+        "fusion reactor",
+        "fusion research",
+        "fusion technology",
+        "fusion power",
+        "fusion energy",
+        "tokamak",
+        "stellarator",
+        "plasma fusion",
+        "cold fusion"
+      ]
+    },
+    {
+      "intent": "technical_discussion",
+      "examples": [
+        "engine",
+        "reactor",
+        "plasma",
+        "scientific",
+        "technical",
+        "engineering",
+        "technology",
+        "innovation",
+        "invention",
+        "mechanism",
+        "system design",
+        "technical details",
+        "engineering problem",
+        "scientific method"
+      ]
+    },
+    {
+      "intent": "add_task",
+      "examples": [
+        "remind me",
+        "add task",
+        "to-do",
+        "todo",
+        "remember",
+        "task",
+        "remind me to",
+        "add to my list",
+        "create task",
+        "new task",
+        "i need to remember",
+        "don't let me forget"
+      ]
+    },
+    {
+      "intent": "tell_joke",
+      "examples": [
+        "joke",
+        "funny",
+        "make me laugh",
+        "tell me something funny",
+        "humor",
+        "tell a joke",
+        "something humorous",
+        "make me smile",
+        "cheer me up",
+        "be funny",
+        "comic",
+        "amusing"
+      ]
+    },
+    {
+      "intent": "get_definition",
+      "examples": [
+        "define",
+        "definition of",
+        "meaning of",
+        "what does",
+        "what means",
+        "explain",
+        "what is",
+        "define word",
+        "dictionary",
+        "meaning",
+        "definition",
+        "explain the term",
+        "what does it mean"
+      ]
+    },
+    {
+      "intent": "get_time",
+      "examples": [
+        "time",
+        "what time",
+        "current time",
+        "clock",
+        "what's the time",
+        "tell me the time",
+        "time now",
+        "current time",
+        "what time is it"
+      ]
+    },
+    {
+      "intent": "technology_interest",
+      "examples": [
+        "technology",
+        "tech",
+        "invention",
+        "gadget",
+        "cool tech",
+        "new technology",
+        "innovation",
+        "latest tech",
+        "tech news",
+        "technological advancement",
+        "digital",
+        "computing"
+      ]
+    },
+    {
+      "intent": "compliment",
+      "examples": [
+        "you are",
+        "you're",
+        "i like you",
+        "good job",
+        "well done",
+        "thank you",
+        "thanks",
+        "great work",
+        "awesome",
+        "amazing",
+        "you're great",
+        "you're awesome",
+        "you're helpful"
+      ]
+    },
+    {
+      "intent": "status_check",
+      "examples": [
+        "status report",
+        "how are systems",
+        "diagnostics",
+        "system status",
+        "are you operational",
+        "systems check",
+        "run diagnostics",
+        "all systems",
+        "operational status"
+      ]
+    },
+    {
+      "intent": "formal_greeting",
+      "examples": [
+        "good day sir",
+        "greetings sir",
+        "how may i assist you",
+        "at your service",
+        "how may i help",
+        "ready to assist",
+        "standing by",
+        "awaiting instructions"
+      ]
+    },
+    {
+      "intent": "acknowledge_command",
+      "examples": [
+        "understood",
+        "roger that",
+        "copy that",
+        "affirmative",
+        "very well",
+        "as you wish",
+        "certainly",
+        "of course",
+        "right away"
+      ]
+    },
+    {
+      "intent": "request_clarification",
+      "examples": [
+        "come again",
+        "clarify",
+        "elaborate",
+        "specify",
+        "be more specific",
+        "could you repeat",
+        "i don't understand",
+        "please clarify"
+      ]
+    }
+  ]
+}

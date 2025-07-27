@@ -1,0 +1,2 @@
+{"timestamp": "2025-07-24T15:03:11.662306", "user_input": "time ", "jarvis_response": "response logged", "intent": "get_time", "success": true, "user_name": "niel hitesh"}
+{"timestamp": "2025-07-24T15:06:07.203643", "user_input": "we are goint to work on project", "jarvis_response": "response logged", "intent": "work_collaboration", "success": true, "user_name": "niel hitesh"}

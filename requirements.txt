@@ -1,0 +1,35 @@
+# JARVIS AI Assistant Requirements
+# Core Dependencies
+pyttsx3>=2.90
+speechrecognition>=3.10.0
+requests>=2.31.0
+pyaudio>=0.2.11
+
+# Enhanced Speech Recognition (Choose one option)
+# Option 1: OpenAI Whisper (Recommended - Best Accuracy & Speed)
+openai-whisper>=20231117
+sounddevice>=0.4.6
+soundfile>=0.12.1
+numpy>=1.24.0
+
+# Option 2: Alternative Google Speech (Fallback)
+# google-cloud-speech>=2.21.0
+
+# Advanced Text Processing (Optional but Recommended)
+fuzzywuzzy>=0.18.0
+python-levenshtein>=0.21.1
+
+# AI Integration (Optional)
+openai>=1.0.0
+
+# System Requirements
+threading  # Built-in
+datetime   # Built-in
+webbrowser # Built-in
+os         # Built-in
+sys        # Built-in
+time       # Built-in
+json       # Built-in
+pickle     # Built-in
+random     # Built-in
+subprocess # Built-in

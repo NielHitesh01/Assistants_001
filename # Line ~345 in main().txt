@@ -1,0 +1,2 @@
+# Line ~345 in main()
+print("Tip: Check microphone permissions and ensure no other apps are using the mic.")
